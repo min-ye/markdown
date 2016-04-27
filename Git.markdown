@@ -1,4 +1,12 @@
 # GIT Training
+
+## Concept
+|English           |中文  |
+|------------------|-----|
+|Working Directory |工作区|
+|Staging Area      |暂存区|
+|History Repository|版本库|
+
 ## Setting
     git init
     git config --global user.name "Ye Min"
@@ -61,3 +69,22 @@ It can be resolved by git stash
 > Restore the saved stash
 
 Then merge it and commit.
+
+
+
+### Case
+###### Compare Working Directory with Staging Area
+    git diff
+###### Compare Staging Area with History Repository
+    git diff --cached
+    git diff --cached HEAD
+* Compare Working Directory with History Repository
+    git diff HEAD
+    git diff master
+* Display Staging Area folders and files information
+* Display History Repository folders and files information
+* Display the file content on Staging Area
+* Display the file content on History Repository
+* Display the changed files information
+* Compare History Repository with Remote Repository
+* Pull Conflicts
