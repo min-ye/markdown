@@ -84,39 +84,138 @@ Uncountable nouns:
 	10. Lucy和Lily合用的卧室
 
 6. Select the correct answer
-   01.	Dongdong is one of the Chinese _____ in our school.
-  			A. boys 			B. boys			C. boies
-  	02.	- Whose car is it?
- 			- It's _____ .
- 			A. Tom and Marry		B. Tom's and Mary's 	C. Tom and Mary's
- 	03.	Mr. Black is _____ father. He loves them very much.
- 			A. Liz and Lily's		B. Liz's 				C. Liz's and Lily's
- 	04.	Peter is _____ .
- 			A. a friend of mine	B. a my friend			C. a friend of my mother
- 	05.	June 1 is _____ Day.
- 			A. Children				B. Children's 			C. Child's
- 	06.	- Whose lunch boxes are these?
- 			- They are the _____ .
- 			A. children's 			B. childrens'			C. children
- 	07.	I will give you _____ to finish it.
- 			A. two weeks time 	B. two week time 		C. two-week time
- 	08.	Look at the map. It's _____ .
- 			A. a map of American	B. a map of America 	C. an American map
+   01. Dongdong is one of the Chinese _____ in our school.
+  		 A. boys 			B. boys			C. boies
+  	02. - Whose car is it?
+ 		 - It's _____ .
+ 		 A. Tom and Marry		B. Tom's and Mary's 	C. Tom and Mary's
+ 	03. Mr. Black is _____ father. He loves them very much.
+ 		 A. Liz and Lily's		B. Liz's 				C. Liz's and Lily's
+ 	04. Peter is _____ .
+ 		 A. a friend of mine	B. a my friend			C. a friend of my mother
+ 	05. June 1 is _____ Day.
+ 		 A. Children				B. Children's 			C. Child's
+ 	06. - Whose lunch boxes are these?
+ 		 - They are the _____ .
+ 		 A. children's 			B. childrens'			C. children
+ 	07. I will give you _____ to finish it.
+ 		 A. two weeks time 	B. two week time 		C. two-week time
+ 	08. Look at the map. It's _____ .
+ 		 A. a map of American	B. a map of America 	C. an American map
 
 7. Fill in the blank with the correct form of the given word in the brackets
-	01.	- Is this _____ (apple)?
-			- No, it isn't.
-	02.	- Whar are these?
-			- They are _____ (orange).
-	03.	Pass me _____ (pencil).
-	04.	Give me some _____ (egg), please.
-	05.	- Are those your _____ (shoe)?
-			- Yes, they are.
-	06.	Those shoes are _____ (Tom).
-	07.	Is the big _____ (orange) Linda's?
-	08.	There are two _____ (knife) in the pencil-box.
-	09.	This _____ (T-shirt) is big.
-	10.	A pig's _____ (ear) are big.
+	01. - Is this _____ (apple)?
+		 - No, it isn't.
+	02. - Whar are these?
+		 - They are _____ (orange).
+	03. Pass me _____ (pencil).
+	04. Give me some _____ (egg), please.
+	05. - Are those your _____ (shoe)?
+		 - Yes, they are.
+	06. Those shoes are _____ (Tom).
+	07. Is the big _____ (orange) Linda's?
+	08. There are two _____ (knife) in the pencil-box.
+	09. This _____ (T-shirt) is big.
+	10. A pig's _____ (ear) are big.
 
 8. Complete the sentence with the given Chinese word
-	01.	There are _____ (瘦的猴子) and that is _____ (胖的熊猫).
+	01. There are _____ (瘦的猴子) and that is _____ (胖的熊猫).
+	02. I like _____ (美丽的蝴蝶).
+	03. I'm hungry. I want _____ (一些米饭) and _____ (一只蛋).
+	04. - What's that in the sky? - It's _____ (一支新的风筝).
+	05. May I have _____ (两个蛋糕).
+	06. Peter has got _____ (一条围巾和一副手套).
+	07. Are there _____ (一些动物) in the forest?
+	08. We need _____ (一些面包) and _____ (一些饮料) for tomorrow's picnic.
+	09. China is _____ (一个大国).
+	10. Xiao Hong is _____ (二年级的女孩).
+
+9. Choose the correct answer
+	01. - What are those?
+	    - _____
+	    A. They are knife.		B. They are knives.		C. They are Peter's knife.
+	02. Those English _____ are on the desk.
+		 A. newspaper				B. story book				C. books
+	03. Give me _____ flour, please.
+	    A. many						B. a 							C. a tin of
+	04. This is the _____ room.
+	    A. children's 			B. childrens'				C. children
+	05. We are in model _____ group.
+	    A. ships					B. cars 						C. plane
+	06. These bottles of _____ are fresh.
+	    A. milk						B. milks						C. jams
+	07. Have you got any nice _____ ?
+	    A. photos					B. a photo 					C. photo
+	08. My classmates go to school on _____ ?
+	    A. feet 					B. foot 						C. bus
+	09. Those teachers are all in the _____ .
+	    A. teacher's office		B. teacher office			C. teachers' office
+	10. - Is that _____ ?
+	    - Yes, it is.
+	    A. a pair of glass		B. two pair of glasses	C. a pair of glasses
+	11. Hong Wei is making a card. She wants a _____ of scissors.
+	    A. packet					B. bottle 					C. pair
+	12. - Whose crayon is that?
+	    - It's _____ .
+	    A. Mike						B. Mike's 					C. for Mike's
+	13. John likes to eat _____ .
+	    A. tomato					B. tomatos					C. tomatoes
+	14. I want a _____ of noodles.
+	    A. piece					B. bar 						C. bowl
+	15. - Can Tom play _____ ?
+	    - Yes, he can.
+	    A. the football			B. the piano				C. the table tennis
+	16. The _____ teaches English well.
+	    A. teachers				B. teacher 					C. a teacher
+	17. There is _____ on his table.
+	    A. paper bag				B. a paper bag				C. some paper bag
+	18. - What are their jobs?
+	    - They are _____ .
+	    A. wives					B. housewives				C. housewife
+	19. My father bought three _____ at the shop five minutes ago.
+	    A. beers					B. bottles beer 			C. bottles of beer
+	20. There are six _____ in the photo.
+	    A. man 						B. woman						C. people
+	21. - Are there any _____ in the pond?
+	    A. fish 					B. meat 						C. milk
+	22. We have _____ on Saturday.
+	    A. not lesson 			B. no lessons 				C. schools
+
+10. Add a or an if it is a countable noun, and write down its plural; wtire / if it is uncountable noun
+	01. _____ umbrella _____
+	02. _____ brush    _____
+	03. _____ glue     _____
+	04. _____ unit     _____
+	05. _____ sugar    _____
+	06. _____ French   _____
+	07. _____ child    _____
+	08. _____ woman teacher _____
+	09. _____ cocoon   _____
+	10. _____ tooth    _____
+	11. _____ half     _____
+	12. _____ idea     _____
+
+11. Check the following word is correct or not, write down the correct word if it is incorrect
+   01. sheeps _____
+   02. buses
+   03. my classmates's father
+   04. a onion
+   05. some boys
+   06. five foose
+   07. two womans
+   08. the children's toys
+   09. a map of China
+   10. a paper
+   11. three bottle of water
+   12. two babys
+   13. peachs
+   14. potatoes
+   15. foxs
+   16. some leafs
+   17. photoes
+   18. dogs
+   19. the classroom's wall
+   20. mouses
+
+12. Fill in the blank with the correct form of the given word
+	01. 
