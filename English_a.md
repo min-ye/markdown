@@ -6,11 +6,11 @@ Uncountable nouns: bread 	ink 	ice 	juice 	lemonade 	coffee 	paper 	news
 
 2. Link the correct classifiers to the nouns, and translate in Chinese
 
-	a bottle of	(ink)    		news
+	a bottle of	(ink)    			news
 	a pair of (scissors)			ink
 	a piece of (news)				sweets
-	two bars of (soap)			scissors
-	three bowls of (soup)		soup
+	two bars of (soap)				scissors
+	three bowls of (soup)			soup
 	a packet of (sweets)			soap
 	a loaf of (bread)				bread
 
@@ -22,7 +22,7 @@ Uncountable nouns: bread 	ink 	ice 	juice 	lemonade 	coffee 	paper 	news
 	05. 许多面粉			a lot of/much flour
 	06. 三瓶果汁			three bottles of juice
 	07. 一条肥皂			a bar of soap
-	08. 五块巧克力		five bars of chocolate
+	08. 五块巧克力		five bars of chocolate?
 	09. 一碗米饭			a bowl of rice
 	10. 十听果酱			ten tins of jam
 
@@ -36,7 +36,7 @@ Uncountable nouns: bread 	ink 	ice 	juice 	lemonade 	coffee 	paper 	news
 	07. radio			radios
 	08. people			people
 	09. leaf 			leaves
-	10. bus 				buses
+	10. bus 			buses
 	11. desk 			desks
 	12. flower 			flowers
 	13. flour 			/
@@ -73,7 +73,7 @@ Uncountable nouns: bread 	ink 	ice 	juice 	lemonade 	coffee 	paper 	news
 
 5. Translation
 	01. 一张公园的图片				a picture of a park
-	02. 五年级三班的学生们			the student of Class Three, Grade Five
+	02. 五年级三班的学生们			the students of Class Three, Grade Five
 	03. Jack的鞋子					Jack's shoes
 	04. 人民广场						the People's Square
 	05. 我爷爷的一些朋友 			a few friends of my grandfather's
@@ -106,7 +106,7 @@ Uncountable nouns: bread 	ink 	ice 	juice 	lemonade 	coffee 	paper 	news
 7. Fill in the blank with the correct form of the given word in the brackets
 	01. - Is this ___an apple___ (apple)?
 		 - No, it isn't.
-	02. - Whar are these?
+	02. - What are these?
 		 - They are ___oranges___ (orange).
 	03. Pass me ___a pencil___ (pencil).
 	04. Give me some ___eggs___ (egg), please.
