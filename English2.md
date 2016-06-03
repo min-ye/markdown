@@ -123,6 +123,8 @@ I'm ______ American girl. My name is ______ Sue. I am ______ new student. I am i
 
 I'm Hong Wei. I'm in _____ Class 1, Grade 5. Can you see _____ photo on _____ wall? It's _____ old photo of my family. Who's _____ old man? He's my grandfather. _____ man in _____ blue is my uncle. _____ woman in _____  brown dress is my aunt. My father is behind _____ my mother. He's in _____ black coat. He's in _____ No. 1 Middle School. Look, _____ dog beside _____ boy is my friend. Its name is Bobby. All _____ people in _____ photo are very happy.
 
+Mr. Brwon is _____ young dentist of _____ No.3 Hospital. He drives to work because his house is far from _____ hospital. He lives with his parents and _____ elder brother. His house has eight rooms. There is _____ dining room, _____ living room, three bedrooms, two bathrooms and _____ kitchen. _____ bedrooms are blue, green and purple with pink floors. The houses near _____ Mr. Brown's are white or yellow. All _____ people in those houses don't like _____ colours of his bedrooms. But _____ Browns like _____ colours, so they like their house very much.
+
 ### Translate to English
 1. 发烧
 2. 看一看
@@ -204,8 +206,23 @@ I'm Hong Wei. I'm in _____ Class 1, Grade 5. Can you see _____ photo on _____ wa
     A. a, / 						B. a, the
     C. a, a 						D. the, the
 24. We have three meals _____ day. We have breakfast at _____ 6:30 in _____ morning every day.
-    A. the, the, the 			B. the, /, the
+    A. the, the, the 				B. the, /, the
     C. a, /, the 					D. a, the, the
 25. She is _____ ugly caterpillar. But  she'll be _____ beautiful butterfly.
-    A. an, the 					B. the, a
+    A. an, the 						B. the, a
     C. a, an 						D. an, a
+26. He is _____ European student. He is not old.
+    A. /							B. an
+    C. some							D. z
+27. There is _____ "n" in _____ word "honest".
+    A. a, the 						B. an, the
+    C. /, the 						D. the, the
+28. I usually have _____ rice for _____ lunch.
+    A. the, the 					B. /, /
+    C. /, the 						D. the, /
+29. Jim's father is _____ accountant. And his mother is _____ university teacher.
+    A. an, an 						B. an, a
+    C. a, an 						D. a, a
+30. I am going to have _____ one-week holiday next week.
+    A. a 							B. an
+    C. the 							D. /
