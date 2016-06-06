@@ -36,7 +36,7 @@ Uncountable nouns: bread 	ink 	ice 	juice 	lemonade 	coffee 	paper 	news
 	07. radio			radios
 	08. people			people
 	09. leaf 			leaves
-	10. bus 			buses
+	10. bus 				buses
 	11. desk 			desks
 	12. flower 			flowers
 	13. flour 			/
@@ -85,7 +85,7 @@ Uncountable nouns: bread 	ink 	ice 	juice 	lemonade 	coffee 	paper 	news
 
 6. Select the correct answer
    01. Dongdong is one of the Chinese ___B___ in our school.
-  		 A. boys 			B. boys			C. boies
+  		 A. boy  			B. boys			C. boies
   	02. - Whose car is it?
  		 - It's ___C___ .
  		 A. Tom and Marry		B. Tom's and Mary's 	C. Tom and Mary's
@@ -196,7 +196,7 @@ Uncountable nouns: bread 	ink 	ice 	juice 	lemonade 	coffee 	paper 	news
 	24. Mark is going to take ___B___ trip to Hainan Island.
 	    A. five days					B. a five-day					C. a five day 					D. five-day
 	25. Mrs. Brown has ___C___ to do today. She is very busy.
-	    A. many housework			B. much houseworks			C. much houseworks 			D. many houseworks
+	    A. many housework			B. much houseworks			C. much housework 			D. many houseworks
 	26. Please give Jackson ___D___ .
 	    A. two pairs scissors		B. two pair of scissors		C. two scissors				D. two pairs of scissors
 	27. There are four ___B___ of cheese on the plate.
@@ -296,3 +296,46 @@ Uncountable nouns: bread 	ink 	ice 	juice 	lemonade 	coffee 	paper 	news
 	05. - Is this knife sharp? - Yes, it is. (Change to plural)
 		 - Are these knives sharp? - Yes, they are.
 
+1. Like后面一般用复数，因为喜欢的是一类的东西，肯定不止这一个，所以用复数，但是如果特指喜欢某一个，也要用单数。
+	I like apples.
+	I like my mother.
+	I like the book.
+2. 可数名词：
+	watch 手表
+3. 不可数名词
+	paper 纸
+	news 新闻
+	flour 面粉
+	bread 面包
+	sugar 糖
+4. 不可数名词有两种方法进行数量的修饰，但无论如何前面不能加a或an，可以用the或some；
+	模糊性修饰： some， a lot of, plenty of, much, a little of, a bit of
+	确切性修饰： a piece of, a packet of
+5. chalk 粉笔，不可数；
+	color chalk 彩色粉笔， 可数；
+6. chocolate 不可数； two bars of chocolate
+7. honey 蜂蜜， 不可数；
+8. people当人讲的时候，是集合名词，表达复数的概念；
+	说一个人时，不用people；说两个及以上人时，用people，例如twenty people; how many people; too many people;
+	people 作民族讲的时候有单复数之分；
+9. Chinese 做中文讲时， 不可数；
+	Chinese 做中国人讲时，可数，单复数同型；
+	Chinese 做语文课讲时，不可数；
+10. scarf 围巾， 可数， 复数为scarves；
+11. Labor's Day 劳动节
+12. pond 池塘
+13. 五天的假期 a five-day holiday; five days' holiday;
+14. housework, homework 为不可数名词；
+15. month复数直接加s；
+16. 半个小时： half an hour；
+	一个半小时： one and a half hours; 超过一个就用复数；
+	一个半小时： one hour and a half;
+17. information 信息， 不可数；
+18. rest 当休息讲，不可数；
+    rest 当剩余讲， 可数；
+19. glue 胶水，不可数；
+20. half 一半， 可数；
+21. 我们班同学的爸爸： my classmates' fathers
+22. onion 洋葱，可数；
+	 洋葱味, 不可数；
+	 too much onion in the salad； 色拉里的洋葱太多，不可数；
