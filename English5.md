@@ -163,4 +163,60 @@
     He likes to stand just _____ (beside, besides) me.
     There are many other children _____ (beside, besides) Michael.
     I read the novel _____ (to, till) the end.
-    
+    We often go to school _____ bike. (on, by)
+    The students like to go to school _____ a bike. (on, by)
+
+### 选择适当的介词填空
+    at 		from 		to 		in 		into 		for 		along
+    around 	on 		between 	with 		over
+
+    We have to leave _____ once, or the plane will leave.
+    _____ morning _____ night she was kept painting the picture.
+    She is doing well _____ both Chinese and maths.
+    You must do it like this. _____ example, you can put it _____ the middle of the desk.
+    We spent thirty minutes getting there _____ foot.
+    There are many shops and houses _____ the streets.
+    The student showed the teachers _____ the school.
+    Let's apologize _____ your parents.
+    We left the key _____ our classroom.
+    We are reporters of the Students' Post. The teachers are pleased _____ our work.
+
+### 根据需要用适当的介词填空
+    They went home _____ car.
+    I haven't seen my grandma _____ a week.
+    He has been away _____ Saturday.
+    Classes last _____ 8 o'clock _____ 4 o'clock.
+    The train will arrive _____ 12 o'clock _____ noon.
+    The child ran ____ the road.
+    Don't play _____ the road. It's very dangerous.
+    What did you think _____ the programme?
+    Honey is good _____ the health.
+    We met _____ a fine morning _____　July.
+
+### 选择正确的答案
+    The writer writes a few stories _____ young people.
+    A. of                   B. to                   C. for
+    They usually have a party _____ the midnight of New Year's Eve.
+    A. at                   B. in                   C. on
+    She said that she would come back _____ ten.
+    A. on                   B. at                   C. in
+    It is very clever _____ to do so.
+    A. of you               B.for you               C. with you
+    Thank you very much _____ your help.
+    A. for                  B. to                   C. with
+    The house is big enough _____.
+    A. for us to live in    B. for we to live in    C. of us to live
+    The friends arrived in Shanghai _____ the afternoon of July 3rd.
+    A. in                   B. at                   C. on
+    May I have a pen _____ ?
+    A. to write             B. to write with it     C. to write with
+    Children like to have the gifts _____ Christmas Day.
+    A. from                 B. at                   C. on
+    I don't understand that business letter because it is written _____ English.
+    A. for                  B. with                 C. in
+
+### 阅读短文，并根据所给提示填空
+    A baby _______________ (坐在) the balcony, ______________ (玩着他的气球). He thought it was a ball and had been bouncing it. One bounce went _________________ (太高). ________________ (跃出了) the bamboo fence it went!
+    Then the wind ____________ the balloon ______________ (吹回来) over the bamboo railing. This time, the baby thought this was a game _____________ (像打羽毛球), so he hit it ______________ (用他的手).
+    "Here we ______________ (再来一次)!" cried the balloon. "Now I am a badminton birdie! What a bad day ___________ (对我而言)!" The balloon floated ________________ (远离) this time.
+    ______________ (高高飞入空中) he went! POP! The balloon cried as he landed _____________ (在一个男孩附近) eating a banana. His life was over. What a very bad day!
