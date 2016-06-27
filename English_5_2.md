@@ -16,7 +16,7 @@
 + Their teacher _____ some nice fruit. (have)
 
 ### 首字母填空
-Many children around the world like pets bacause these l_____ aninals bring us a lot of f_____. Children in English often have pets. Everyone h_____ a puppy or a dog. Goldfish are pets for people in C_____. The pets in A_____ are lizards. Children love lizards because they are very interesting and it can change i_____ colours to yellow and b_____. A hamster is o_____ white and has no tails. It is very s_____. It is the pet for children in America and Canada. Animals are our f_____. We must love and take care of them.
+Many children around the world like pets because these l_____ animals bring us a lot of f_____. Children in English often have pets. Everyone h_____ a puppy or a dog. Goldfish are pets for people in C_____. The pets in A_____ are lizards. Children love lizards because they are very interesting and it can change i_____ colours to yellow and b_____. A hamster is o_____ white and has no tails. It is very s_____. It is the pet for children in America and Canada. Animals are our f_____. We must love and take care of them.
 
 Many countries in the world are f_____ for their sports. A_____ we call them national sports. Ping-pong is the national sport o_____ China. Many people like p_____ this game. Today, Rugby is the national sport of the A_____ and New Zealand. Only big and strong m_____ or boys play rugby because it is a tough game. The national sport of Canada is i_____ hockey. They sometimes a_____ call it "Canadian hockey". It is a popular game f_____ boys and girls all over the country. Sports are l_____ a special bridge for people in the world. Remember to do more sports, they are good for you!
 
